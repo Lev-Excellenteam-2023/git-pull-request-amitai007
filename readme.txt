@@ -1,1 +1,1 @@
-"This is branch1"  
+"This is both file of branch1 and branch2"
